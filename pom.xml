@@ -241,6 +241,7 @@
         <module>jmeter-java-sampler-keyboard</module>
         <module>jmeter-java-sampler-wmq</module>
         <module>jmeter-java-sampler-excel</module>
+        <module>jqm-utils</module>
         <!--
 
         -->
