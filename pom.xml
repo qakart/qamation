@@ -291,7 +291,7 @@
         <module>jmeter-java-sampler-wmq</module>
         <module>jmeter-data-provider</module>
         <module>jmeter-test</module>
-
+        <module>telnet</module>
 
 
         <!--
